@@ -1,2 +1,2 @@
-# RP_PremiumButton
-Button input debounce with several further functions
+# RP_SimpleButton
+Button input debounce
